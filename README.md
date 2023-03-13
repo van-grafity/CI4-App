@@ -63,3 +63,5 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 composer create-project codeigniter4/appstarter CI4-App
 php spark serve
+
+https://medium.com/@jenusdy/menghilangkan-public-dan-index-php-pada-codeigniter-4-c40fca863709
